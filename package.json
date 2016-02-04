@@ -1,0 +1,28 @@
+{
+  "name": "light-stick",
+  "version": "0.0.0",
+  "description": "Open light stick and wave your hands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcatliu/light-stick.git"
+  },
+  "keywords": [
+    "light",
+    "stick",
+    "light-stick"
+  ],
+  "author": "xcatliu <xcaliu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xcatliu/light-stick/issues"
+  },
+  "homepage": "https://github.com/xcatliu/light-stick#readme",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^5.0.0"
+  }
+}
