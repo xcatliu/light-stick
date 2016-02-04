@@ -4,13 +4,13 @@ html, body {
 }
 
 @keyframes colorChange {
-  0% {background-color: red;}
-  16.67% {background-color: yellow;}
-  33.33% {background-color: green;}
-  50% {background-color: cyan;}
-  66.67% {background-color: blue;}
-  83.33% {background-color: purple;}
-  100% {background-color: red;}
+  0% {background-color: #f33;}
+  16.67% {background-color: #ff3;}
+  33.33% {background-color: #3f3;}
+  50% {background-color: #3ff;}
+  66.67% {background-color: #33f;}
+  83.33% {background-color: #f3f;}
+  100% {background-color: #f33;}
 }
 
 body {
