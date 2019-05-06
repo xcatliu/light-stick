@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/xcatliu/light-stick#readme",
   "devDependencies": {
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^5.0.0"
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0"
   }
 }
