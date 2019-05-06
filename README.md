@@ -1,5 +1,7 @@
 # Light Stick
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xcatliu/light-stick.svg)](https://greenkeeper.io/)
+
 > 拍一个创意炫彩照，俘获妹子芳心
 
 ## 前提条件
